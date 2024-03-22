@@ -1,3 +1,4 @@
+Here is the code that we creating for the project of the course of neural networks.
 IN THE MLP FOLDER:
 Perceptron Multilevel Classification Program,two hidden levels
 The gradient descent algorithm is modeled in groups.
