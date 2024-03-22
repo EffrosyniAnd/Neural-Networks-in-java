@@ -1,4 +1,4 @@
-IN THE MLP FOLDER
+IN THE MLP FOLDER:
 Perceptron Multilevel Classification Program,two hidden levels
 The gradient descent algorithm is modeled in groups.
 This means that the input to our neural network will be taken in batches, where
@@ -18,7 +18,7 @@ the graph showing the correlation between the grouping error/
 number of groups.
 To summarise, we observe how for a larger number of groups the clustering error is reduced.
 
-IN THE LVQ FOLDER
+IN THE LVQ FOLDER:
 Similar to the k-means clustering algorithm, we run the LVQ algorithm 5 times for each distinct
 The value of the metric 'M' corresponding to the number of clusters is again derived from
 a table int[ ] tests = {2, 3, 4, 5, 6, 7, 10} while the clustering error is typed with the micro-error.
